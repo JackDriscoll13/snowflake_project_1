@@ -1,3 +1,7 @@
 # Enviorment 
 venv/
 src/config.py
+secrets/
+lab_data_api_python/
+.env 
+test_connector.py
